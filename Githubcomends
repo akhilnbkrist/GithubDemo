@@ -20,3 +20,11 @@ git reset –soft <commit>	Moves the branch pointer to a specified commit, prese
 git reset –hard <commit>	Moves the branch pointer to a specified commit, discarding all changes in the staging area and the working directory, effectively resetting the repository to the specified commit.
 git rm <file>	Removes a file from both the working directory and the repository, staging the deletion.
 git mv	Moves or renames a file or directory in your Git repository.
+
+
+
+
+
+
+akhileswara reddy
+
